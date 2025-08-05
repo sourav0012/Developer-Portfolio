@@ -43,7 +43,7 @@ const Footer = () => {
           <div className="flex flex-col items-center md:items-start gap-2">
             <div className="flex items-center gap-3">
               <div className="w-2 h-8 bg-gradient-to-b from-blue-500 to-purple-600 rounded-full"></div>
-              <h3 className="text-xl font-bold text-white tracking-wider">My-Portfoloo</h3>
+              <h3 className="text-xl font-bold text-white tracking-wider">My-Portfolio</h3>
             </div>
             <p className="text-gray-400 text-sm font-light tracking-wide">
               ©2025 Portfolio. All rights reserved
