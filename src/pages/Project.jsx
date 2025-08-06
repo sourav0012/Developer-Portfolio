@@ -10,9 +10,10 @@ const projects = [
     gradient: "from-pink-500 via-red-500 to-yellow-500",
   },
   {
-    title: "Project Two",
-    description: "Animated UI elements built with React and GSAP.",
-    href: "#",
+    title: "My-Portfolio",
+    description: "Personal portfolio website built with React and Tailwind and GSAP.",
+    href: "https://smreactportfolio.netlify.app/",
+    target: "_blank",
     gradient: "from-blue-500 via-cyan-500 to-teal-500",
   },
   {
